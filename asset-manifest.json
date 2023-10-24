@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d33d6782.css",
+    "main.js": "/static/js/main.1179f507.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/logo.png": "/static/media/logo.4c37071951c9aff95308.png",
+    "static/media/about.png": "/static/media/about.c09738e9f93d4acdb0f9.png",
+    "static/media/2.png": "/static/media/2.53031de4d9c129b0d7cf.png",
+    "static/media/pepe1.jpg": "/static/media/pepe1.378cc23385e3ef5402ad.jpg",
+    "static/media/r1.webp": "/static/media/r1.cb5c2f102f9c760b7e50.webp",
+    "static/media/Soumyajit_Behera-BIT_MESRA.pdf": "/static/media/Soumyajit_Behera-BIT_MESRA.51bf91e4644d2514e97b.pdf",
+    "static/media/1.png": "/static/media/1.7cb932ecdf4151dfcff5.png",
+    "static/media/3.png": "/static/media/3.bbb4e43c3abcf023ba2f.png",
+    "static/media/r2.webp": "/static/media/r2.be7816b0b2ffa03336cc.webp",
+    "static/media/5.png": "/static/media/5.f4906cda968dec094581.png",
+    "static/media/pepe2.png": "/static/media/pepe2.b5a8bd59573740895d22.png",
+    "static/media/name.png": "/static/media/name.65d67c7323c8b3358d30.png",
+    "static/media/uniswap.svg": "/static/media/uniswap.dde47fc619716c31bef2573a7df8a25a.svg",
+    "static/media/dextools.svg": "/static/media/dextools.c1f1f221f409732fee5cdd1fffb00500.svg",
+    "static/media/dextools2.svg": "/static/media/dextools2.279b264a308008918993e8e74bca6f07.svg",
+    "static/media/etherscan.svg": "/static/media/etherscan.cb8feef690825192068a6ecd8079e055.svg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.d33d6782.css.map": "/static/css/main.d33d6782.css.map",
+    "main.1179f507.js.map": "/static/js/main.1179f507.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d33d6782.css",
+    "static/js/main.1179f507.js"
+  ]
+}
